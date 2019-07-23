@@ -1,0 +1,21 @@
+{
+    "name": "book-list",
+    "author": {
+        "name": "Rodrigo Sanabria",
+        "email": "rodrigosanabria22@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/krosf-university/booklist",
+        "type": "git"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^1.13.0",
+        "@typescript-eslint/parser": "^1.13.0",
+        "eslint": "^6.1.0",
+        "eslint-config-prettier": "^6.0.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^1.18.2",
+        "typescript": "^3.5.3"
+    }
+}
